@@ -2,7 +2,7 @@
 
 Welcome to the **Good Stuff**. Expand a topic to get started
 
-This is a preview of [Prompt Engineering for Songwriters](https://godsol.gumroad.com/l/prompt-engineering-for-songwriters)
+> Get the full training in [Prompt Engineering for Songwriters](https://godsol.gumroad.com/l/prompt-engineering-for-songwriters)
 
 # Prompt Engineering for Songwriting
 
@@ -345,4 +345,4 @@ To get back chords in the song lyrics, simply include the word "chords" or "guit
 
 Don’t want chords? Just be sure not to use those words and they won’t be included.
 
-Add this to
+> Get the full training in [Prompt Engineering for Songwriters](https://godsol.gumroad.com/l/prompt-engineering-for-songwriters)
